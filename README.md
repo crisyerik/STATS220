@@ -2,10 +2,14 @@
 # Hi, I'm Cris 👋🏽 
 ## Welcome to my STATS 220 Repository!
 
+The purpose of this repository is to share my coursework while I complete STATS 220 as part of my Statistics major (BSc/BCom) at the University of Auckland. 
+
+Keep reading to find out what the course is all about and get a brief overview of the projects I've worked on/are working on/need to stop procrastinating on doing ~
+
 ❗️ DISCLAIMER: THIS IS A WORK IN PROGRESS ❗️
 
 <!-- STATS 220 Outline -->
-## *What's STATS 220?*
+## What's STATS 220?
 *STATS 220: Data Technologies* is an intuitive course that explores the processes of data acquistion, data storage, and data processing using current computer technoogies.
 
 Access the syllabus [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
@@ -23,7 +27,7 @@ Module One: Creating HTML by combining modern technologies | Module Two: Creatin
 
 
 
-## This page is a work in progress, but here's my projects so far!
+## Here's my projects so far (as of 07.02)
 
 ### Project One
 **Part A**: This GitHub Page! 
@@ -48,5 +52,13 @@ I also did part... ✅
 
 That's it for Part A ~
 Thanks for reading this readme :)
+
+## Contact me!
+Impressed, digusted, shocked, thrilled, amazed, mesmerised, or appalled with any of my work? Come reach out!
+* *url img to linkedin*
+* *url img to facebook*
+* *url img to instagram*
+* *url img to school email*
+* *url img to personal email*
 
 

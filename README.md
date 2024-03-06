@@ -6,7 +6,7 @@
 
 <!-- STATS 220 Outline -->
 ## *What's STATS 220?*
-*STATS 220: Data Technologies*, is an intuitive course that explores the processes of data acquistion, data storage, and data processing using current computer technoogies.
+*STATS 220: Data Technologies* is an intuitive course that explores the processes of data acquistion, data storage, and data processing using current computer technoogies.
 
 Access the syllabus [here](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
 

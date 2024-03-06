@@ -40,6 +40,13 @@ As part of Project One, I needed to create a new repository in GitHub called "st
 
 **Part B**: Meme Creation
 
-**FINISH THIS**
+I did this part... I promise! ✅
+
+**Part C**: HTML Creation
+
+I also did part... ✅
+
+That's it for Part A ~
+Thanks for reading this readme :)
 
 

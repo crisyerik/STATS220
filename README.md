@@ -6,8 +6,6 @@ The purpose of this repository is to share my coursework while I complete STATS 
 
 Keep reading to find out what the course is all about and get a brief overview of the projects I've worked on/are working on/need to stop procrastinating on doing ~
 
-❗️ DISCLAIMER: THIS IS A WORK IN PROGRESS ❗️
-
 #
 <!-- STATS 220 Outline -->
 ## What's STATS 220?
@@ -50,17 +48,7 @@ I did this part... I promise!
 I also did this part!
 
 #
-<!-- Contact Details -->
-## Say Hi
-Impressed, digusted, shocked, thrilled, amazed, mesmerised, or appalled with any of my work? Come reach out!
-* *url img to linkedin*
-* *url img to facebook*
-* *url img to instagram*
-* *url img to school email*
-* *url img to personal email*
 
-#
-
-That's it for Part A ~
+That's it for Part A of Project 1 ~
 Thanks for reading this readme :)
 
